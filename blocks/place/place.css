@@ -1,0 +1,25 @@
+.place {
+  display: grid;
+  grid-template-columns: 1.0fr 1.05fr;
+  gap: 48px 40px;
+  align-items: end;
+}
+
+@media (max-width: 1024px) {
+  .place {
+    gap: 48px 32px;
+  }
+}
+
+@media (max-width: 768px) {
+  .place {
+    gap: 48px 28px;
+  }
+}
+
+@media (max-width: 716px) {
+  .place {
+    grid-template-columns: 1.0fr;
+    gap: 50px;
+  }
+}
