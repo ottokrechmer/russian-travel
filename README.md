@@ -3,7 +3,7 @@
 Учебная страница для изучения Flex и Grid верстки 
 
 ## Ссылка на сайт
-* [Ссылка на сайт](https://github.com/ottokrechmer/russian-travel)
+* [Ссылка на сайт](https://ottokrechmer.github.io/russian-travel/)
 
 ## Технологии используемые для создания проекта
 
