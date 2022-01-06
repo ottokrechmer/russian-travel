@@ -6,6 +6,7 @@
   text-align: center;
   margin: 0;
   font-weight: bold;
+  max-width: 720px;
 }
 
 @media (max-width: 660px) {
@@ -17,5 +18,6 @@
 @media (max-width: 375px) {
   .lead__title {
     font-size: 2.5rem;
+    max-width: 288px;
   }
 }
