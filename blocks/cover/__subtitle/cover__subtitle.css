@@ -1,0 +1,13 @@
+.cover__subtitle {
+  text-align: center;
+  font-size: 1.125rem;
+  line-height: 1.2;
+  margin: 32px 0 0;
+  z-index: 1;
+}
+
+@media (max-width: 375px) {
+  .cover__subtitle {
+    font-size: 0.875rem;
+  }
+}
