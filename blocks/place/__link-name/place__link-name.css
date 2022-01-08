@@ -2,4 +2,11 @@
   font-size: 0.75rem;
   line-height: 1;
   text-transform: uppercase;
+  margin: 0;
+}
+
+@media (max-width: 375px) {
+  .place__link-name {
+    margin: 0 16px 0;
+  }
 }

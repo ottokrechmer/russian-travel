@@ -2,8 +2,15 @@
   font-size: 1.125rem;
   line-height: 1.22;
   color: white;
+  margin: 0;
 }
 
 .place__link:hover {
   opacity: 80%;
+}
+
+@media (max-width: 375px) {
+  .place__link {
+    margin: 0 16px 0;
+  }
 }

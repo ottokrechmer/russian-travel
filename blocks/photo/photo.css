@@ -1,32 +1,28 @@
 .photo {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
-  margin: 92px 111% 0 -11%;
+  margin: 92px auto 0;
   gap: 16px;
-  width: 122%;
   position: relative;
 }
 
 @media (max-width: 1279px) {
   .photo {
-    margin: 92px 0 0;
+    margin: 92px 48px 0;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    width: 100%;
   }
 }
 
 @media (max-width: 768px) {
   .photo {
-    margin: 88px 0 0;
+    margin: 88px 24px 0;
     grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
-    width: 100%;
   }
 }
 
 @media (max-width: 375px) {
   .photo {
-    margin: 64px 0 0;
+    margin: 64px 16px 0;
     grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
-    width: 100%;
   }
 }
