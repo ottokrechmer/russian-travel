@@ -9,7 +9,7 @@
 
 @media (max-width: 1024px) {
   .cover {
-    width: 100vw;
+    width: 100%;
     margin: 92px 0 0;
     min-height: 640px;
   }
@@ -17,7 +17,7 @@
 
 @media (max-width: 768px) {
   .cover {
-    width: 100vw;
+    width: 100%;
     margin: 90px 0 0;
     min-height: 480px;
   }
@@ -25,7 +25,7 @@
 
 @media (max-width: 375px) {
   .cover {
-    width: 100vw;
+    width: 100%;
     min-height: 200px;
     margin: 66px 0 0;
   }
