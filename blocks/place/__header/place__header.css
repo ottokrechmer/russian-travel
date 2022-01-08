@@ -1,6 +1,7 @@
 .place__header {
   font-size: 4.5rem;
   line-height: 1.05;
+  font-weight: 900;
   margin: 0;
   padding: 0;
 }
