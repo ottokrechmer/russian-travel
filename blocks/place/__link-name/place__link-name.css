@@ -3,6 +3,8 @@
   line-height: 1;
   text-transform: uppercase;
   margin: 0;
+  letter-spacing: 2px;
+  color: #AAAAAA;
 }
 
 @media (max-width: 375px) {
