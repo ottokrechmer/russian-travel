@@ -2,13 +2,13 @@
   font-size: 0.75rem;
   line-height: 1;
   text-transform: uppercase;
-  margin: 0;
+  margin: 0 0 12px;
   letter-spacing: 2px;
   color: #AAAAAA;
 }
 
 @media (max-width: 375px) {
   .place__link-name {
-    margin: 0 16px 0;
+    margin: 0 16px 12px;
   }
 }
